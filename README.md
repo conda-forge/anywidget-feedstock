@@ -152,4 +152,5 @@ Feedstock Maintainers
 =====================
 
 * [@giswqs](https://github.com/giswqs/)
+* [@manzt](https://github.com/manzt/)
 
