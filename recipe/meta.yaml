@@ -1,5 +1,5 @@
 {% set name = "anywidget" %}
-{% set version = "0.2.2" %}
+{% set version = "0.2.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/anywidget-{{ version }}.tar.gz
-  sha256: 0545f9a39543cb046b33c5086a581acd2509124036fa7b2da8ab05d8aa95fc8a
+  sha256: 7e0e2cdbc8b1e9cbe651bea1e7b9fa4be4c4bc0d3c95a9f82ba8df9eac27a426
 
 build:
   noarch: python
