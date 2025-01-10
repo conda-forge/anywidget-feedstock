@@ -20,7 +20,7 @@ requirements:
     - hatchling
     - pip
   run:
-    - python >=3.7
+    - python >={{ python_min }}
     - ipywidgets >=7.6.0
     - importlib-metadata  # [py<38]
     - typing_extensions >=4.2.0
